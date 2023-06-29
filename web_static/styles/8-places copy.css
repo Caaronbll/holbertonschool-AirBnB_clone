@@ -23,3 +23,15 @@
     border: #FF5A5F 1px solid;
     border-radius: 4px;
 }
+
+.places .price_by_night {
+    color: #FF5A5F;
+    border: #FF5A5F 4px solid;
+    border-radius: 50%;
+    min-width: 60px;
+    font-size: 30px;
+    display:flex;
+    justify-content: center;
+    flex-direction: column; 
+    text-align: center;
+}
